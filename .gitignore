@@ -7,3 +7,4 @@ target/
 *.jardesc
 .idea
 gs-algo.iml
+build/
