@@ -5,10 +5,9 @@ dependencies {
 }
 
 publishOnCentral {
-    projectDescription.set(
+    projectDescription =
         "The GraphStream library. With GraphStream you deal with" +
         "graphs. Static and Dynamic. You create them from scratch, from a file" +
         "or any source. You display and render them. This package contains algorithms and generators."
-    )
-    projectLongName.set("gs-algo")
+    projectLongName = "gs-algo"
 }
